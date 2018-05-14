@@ -1,0 +1,43 @@
+part A - Icebreaker ------------------------------------------------------------------------------------------
+Your demonstrator will lead you through the following icebreaker activity:
+You are stranded on a small island out at sea suggest three things you should bring which will most help you
+survive.
+Your demonstrator will start you off listing items by yourself and then inform you when to discuss with someone
+next to you (and pick the top three most important from your combined list). From there the pair of you will
+join a group of four again selecting the three most important from the three chosen by each pair. After this
+your demonstrator will ask each team to pick a representative to list their top three to the class and why they
+were chosen.
+
+OUR CHOICES:
+	1. Water purifier
+	2. Swiss Army Knife
+	3. Rescue Signal
+
+
+
+Part B - Pair programming example ---------------------------------------------------------------------------
+Your demonstrator will go through each of the following situations and ask you to first discuss your thoughts
+with the person next to you and then contribute to a class discussion.
+For each of the following situations, think about how the individual in the story can help to ensure the pair is
+working together effectively.
+Situation 1:
+You are quite confident you know what to do with the task and you want to give your partner the opportunity
+to contribute as well but every time you try to get them to write something they tell you that you seem much
+better at programming than them so they’re happy to let you do it and just watch; they don’t want to get in
+the way and mess something up.
+OUR SOLUTION:
+Point them toward resources, answer their questions but don’t tell them what to do
+
+Situation 2:
+You want to be involved in writing code for this task but every time you write something, your partner tells
+you it’s wrong and replaces it with their own code. Eventually they just ask you to sit and watch so you don’t
+mess up their work.
+OUR SOLUTION:
+First, try to tell them diplomatically that you need to learn, and they are stopping you. But if that doesn’t work, then you need to talk to a faculty member.
+
+Situation 3:
+You and your partner have read the description of the task but neither of you knows how to start.
+It is our intention that after completion of this task you feel empowered to be more effective at working with
+other students in a programming context.
+OUR SOLUTION:
+Research and brainstorm, seek help from others.
